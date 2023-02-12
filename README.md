@@ -30,12 +30,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![Screenshot 2023-01-03 142824](https://user-images.githubusercontent.com/85351454/218330770-e8a76656-7fac-4f7d-af32-00344116d5aa.png)
 
-![Screenshot 2023-01-03 142921](https://user-images.githubusercontent.com/8535
-![Screenshot 2023-01-03 142944](https://user-images.githubusercontent.com/85351454/218330804-ec8bdaef-8acb-47a7-8277-0ea444221587.png)
+![Screenshot 2023-01-03 142921](https://user-images.githubusercontent.com/85351454/218330928-5e313b35-9b45-4a1f-8315-3c1db4e1b1f9.png)
 
-![Screenshot 2023-01-03 143007](https://user-images.githubusercontent.com/85351454/218330807-9de339eb-35dc-4f44-9a0c-be9560ee105d.png)
-![Screenshot 2023-01-03 143101](https://user-images.githubusercontent.com/85351454/218330812-57ea2667-af34-4600-9451-5b01839904f4.png)
 
-![Screenshot 2023-01-03 143138](https://user-images.githubusercontent.com/85351454/218330815-81406d66-d2a5-44a8-bc9b-1cb8ff651540.png)
+![Screenshot 2023-01-03 142944](https://user-images.githubusercontent.com/85351454/218330929-eed16560-a1b8-4d60-894a-972daa732c8e.png)
 
-1454/218330791-4eda40b1-b931-4750-af20-9829b47db43f.png)
+![Screenshot 2023-01-03 143007](https://user-images.githubusercontent.com/85351454/218330934-98b55f11-589a-444d-8bf1-583783e49193.png)
+
+![Screenshot 2023-01-03 143101](https://user-images.githubusercontent.com/85351454/218330938-73d16991-1aae-4059-99a2-e142610ad865.png)
+
+![Screenshot 2023-01-03 143138](https://user-images.githubusercontent.com/85351454/218330944-e137ba88-d543-4e08-b85a-d35ca2619bc7.png)
+
+
+
